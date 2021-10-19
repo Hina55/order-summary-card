@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot.jpg)
+![Picture1](https://github.com/Hina55/order-summary-card/blob/main/Screenshot.JPG)
 
 ### Links
 
