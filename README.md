@@ -11,7 +11,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -29,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://hina55.github.io/order-summary-card/)
+- Live Site URL: [https://hina55.github.io/order-summary-card/](https://hina55.github.io/order-summary-card/)
 
 ## My process
 
